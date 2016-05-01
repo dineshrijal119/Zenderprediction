@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d25a5a</color>
+    <color name="colorPrimaryDark">#bf3838</color>
+    <color name="colorAccent">#403c3d</color>
+    <color name="china_pressed">#00ffba</color>
+
+    <color name="green_temp">#23A96E</color>
+    <color name="green_dark">#159204</color>
+    <color name="bright_green">#02D8B0</color>
+    <color name="button_green">#10a54a</color>
+
+    <color name="chiness_button">#72C0DD</color>
+    <color name="chiness_button_pressed">#2D8AAD</color>
+    <color name="blood_button">#F98B98</color>
+    <color name="blood_button_pressed">#D15967</color>
+
+    <color name="azul">#F98B98</color>
+    <color name="azulEscuro">#D15967</color>
+
+    <color name="black">#403b3737</color>
+
+    <style name="Widget.Button" parent="android:Widget">
+        <item name="android:background">@drawable/red_dot</item>
+    </style>
+</resources>

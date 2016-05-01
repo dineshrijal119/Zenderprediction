@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:startColor="@color/chiness_button_pressed"
+        android:endColor="@color/blood_button_pressed"
+        android:angle="-270" />
+</shape>

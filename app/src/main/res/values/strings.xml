@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Geneder prediction</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+    <string name="schedule">Jpt iteam chiness balbachaa</string>
+    <string name="baby_concept"><b>Baby conception month</b>\n It is age when baby was concept for example , baby concetion month is may and you must enter your age at may.</string>
+    <string name="select_color">Select a color</string>
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+    <string name="titl">Bacchi or baccho</string>
+    <string name="sure">i dont know</string>
+    <string name="girl">Girl</string>
+    <string name="boy">Boy</string>
+    <string name="twin">Twins</string>
+    <string name="unvalid">Please enter the valid data</string>
+    <string name="between">please enter age between 18-45</string>
+    <string name="about_app_name">Gender Prediction \n</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="about">This app is based on the chiness culture</string>
+    <string name="developer">Develop By : \n Dinesh Rijal \n feedback:rjldinesh@gmail.com</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Fullscreen Ad</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-5621631038179221/6415051191</string>
+    <string name="interstitial_full_screen">ca-app-pub-5621631038179221/9368517598</string>
+
+
+</resources>

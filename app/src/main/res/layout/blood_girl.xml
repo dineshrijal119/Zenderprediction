@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/girl_shoes"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:theme="@android:style/Theme.Dialog"
+    android:orientation="vertical">
+    <FrameLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/blood_boy">
+        <np.com.pragnancy.net.zenderprediction.custumclasses.RoundImage
+            android:id="@+id/chiness"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:background="@drawable/cute_one"
+            android:layout_height="160dp"
+            android:text="Chines Method"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:layout_width="160dp"/>
+
+    </FrameLayout>
+    <Button
+        android:id="@+id/btnBloodgirl"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center"
+        android:text="Set other date"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:background="@drawable/seletor_botao"/>
+
+</LinearLayout>

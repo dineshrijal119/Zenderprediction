@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        android:title="share"
+        android:icon="@drawable/abc_ic_menu_share_mtrl_alpha" />
+
+    <item android:id="@+id/facebook"
+        android:title="Like us on Facebook"
+        android:showAsAction="never" />
+    <item android:id="@+id/sendFed"
+        android:title="Send Feedback"
+        android:showAsAction="never" />
+    <item android:id="@+id/aboutUs"
+        android:title="About App"
+        android:showAsAction="never" />
+
+
+</menu>
